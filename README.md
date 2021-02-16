@@ -1,2 +1,4 @@
 # Example repository
-This repository was created _to be deleted._
+This __repository__ is created _to be deleted._
+
+Some text. Just to test.
